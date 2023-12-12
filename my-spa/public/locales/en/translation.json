@@ -1,0 +1,19 @@
+{
+  "welcome": "Welcome to the Application",
+  "userModuleButton": "User Module",
+  "newsModuleButton": "News Module",
+  "notFoundPage": "Page not found",
+  "messageGoBack": "Go Back",
+  "userList": "User List",
+  "newsList": "News List",
+  "remove": "Remove",
+  "edit": "Update",
+  "addUser": "Add New User",
+  "typeName": "Type User Name",
+  "alertUser": "Please enter a name for the new user.",
+  "userDetail": "User Detail",
+  "userId": "User ID: ",
+  "userName": "User Name: ",
+  "newsDetail": "News Details",
+  "newsId": "News ID:"
+}

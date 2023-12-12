@@ -1,0 +1,19 @@
+{
+  "welcome": "Bienvenido a la Aplicación",
+  "userModuleButton": "Módulo de Usuarios",
+  "newsModuleButton": "Módulo de Noticias",
+  "notFoundPage": "Página no Encontrada",
+  "messageGoBack": "Regresar",
+  "userList": "Lista de Usuarios",
+  "newsList": "Lista de Noticias",
+  "remove": "Eliminar",
+  "edit": "Editar",
+  "addUser": "Agregar Nuevo Usuario",
+  "typeName": "Escribir Nombre de Usuario",
+  "alertUser": "Por favor, introduce un nombre para el nuevo usuario.",
+  "userDetail": "Detalle de Usuario",
+  "userId": "ID del Usuario: ",
+  "userName": "Nombre del Usuario: ",
+  "newsDetail": "Detalles de la Noticia",
+  "newsId": "ID de la Noticia: "
+}
